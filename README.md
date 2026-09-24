@@ -1,2 +1,11 @@
-# Password-Strength-Checker
-Checks your password strength and classifiies it as "Strong","Medium" or "Weak"
+PASSWORD STRENGTH CHECKER
+
+Enter a password: Hello123!
+
+✓ At least 8 characters
+✓ Contains uppercase letter
+✓ Contains lowercase letter
+✓ Contains number
+✓ Contains special character
+
+Password Strength: Strong
